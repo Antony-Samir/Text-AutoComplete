@@ -1,0 +1,21 @@
+20
+100 car
+50 cat
+77 hate
+500 cairo
+22 spain
+5 aaa
+101 barcelona
+18 greece
+1000 egypt
+82394 house
+222 zebra
+555 meat
+32 meet
+109 rent
+15 europe
+1441 schengen
+99 alexandria
+1999 alex
+33 brazil
+1030 jordan

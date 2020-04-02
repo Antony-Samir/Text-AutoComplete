@@ -1,0 +1,103 @@
+1
+jordan 1030
+3
+car 100
+cat 50
+aaa 5
+2
+meet 32
+greece 18
+1
+europe 15
+2
+barcelona 101
+brazil 33
+4
+rent 109
+car 100
+cat 50
+aaa 5
+6
+jordan 1030
+egypt 1000
+rent 109
+car 100
+spain 22
+europe 15
+1
+hate 77
+5
+house 82394
+schengen 1441
+hate 77
+brazil 33
+europe 15
+3
+car 100
+cat 50
+aaa 5
+1
+greece 18
+2
+egypt 1000
+zebra 222
+2
+schengen 1441
+spain 22
+8
+house 82394
+jordan 1030
+cairo 500
+zebra 222
+car 100
+cat 50
+brazil 33
+spain 22
+1
+brazil 33
+3
+jordan 1030
+egypt 1000
+spain 22
+5
+meat 555
+car 100
+cat 50
+meet 32
+aaa 5
+3
+cairo 500
+car 100
+cat 50
+2
+alex 1999
+alexandria 99
+1
+cat 50
+1
+cat 50
+3
+car 100
+cat 50
+aaa 5
+1
+alex 1999
+2
+egypt 1000
+zebra 222
+1
+car 100
+1
+egypt 1000
+4
+rent 109
+car 100
+cat 50
+aaa 5
+2
+alex 1999
+alexandria 99
+1
+greece 18
+1
+jordan 1030
